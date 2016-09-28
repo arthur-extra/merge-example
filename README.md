@@ -1,3 +1,3 @@
 # merge-example
 
-a merge example
+another merge example
